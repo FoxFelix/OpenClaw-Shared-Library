@@ -8,6 +8,6 @@
 
 ### 功能 
 
-- Voice: AI聽覺橋接功能
+- [Voice: AI聽覺橋接功能](https://github.com/FoxFelix/OpenClaw-Shared-Library/tree/main/voice)
 
 ### 技能
